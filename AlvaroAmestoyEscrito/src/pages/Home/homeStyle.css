@@ -1,0 +1,9 @@
+.home a {
+  font-weight: 500;
+  color: rgb(194, 15, 207);
+  text-decoration: inherit;
+}
+
+.home a:hover {
+  color: rgb(239, 9, 255);
+}
